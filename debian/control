@@ -1,0 +1,14 @@
+Source: wps-office-l10n-tr
+Section: localization
+Priority: optional
+Maintainer: Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://pardus.org.tr
+
+Package: wps-office-l10n-tr
+Architecture: all
+Depends: wps-office
+Provides: wps-office
+Description: Turkish Translation package of wps-office
+ This package has proived by Pardus team as opensource.
